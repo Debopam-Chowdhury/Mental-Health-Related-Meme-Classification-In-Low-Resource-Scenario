@@ -1,1 +1,1 @@
-# Mental-Health-And-Hinglish-Memes
+# Mental Health Related Meme Classification In Low Resource Scenario
